@@ -1,4 +1,5 @@
 
+
 # Taller ilusiones visuales
 
 ## Propósito
@@ -28,7 +29,7 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 |Troxler Fading        | Visual (Periférica)        | [Troxler Effect](https://www.illusionsindex.org/i/troxler-effect) |                                    |                             |
 |Stepping Feet         | Movimiento           | [Michael Bach (Stepping Feet)](http://www.michaelbach.de/ot/mot-feetLin/index.html)|                                    |                             |
 |Coffee Beans         | Movimiento          |  [Coffee Beans Illusion](http://lookmind.com/illusions.php?id=366&cat=6)           |                                    |                             |
-|3D Waves         | Movimiento          |  [Sine Wave (Processing)](https://processing.org/examples/sinewave.html)|                                    |                             |
+|3D Waves         | Movimiento          |  [Sine Wave (Processing)](https://processing.org/examples/sinewave.html)|                                    |    [Sine Wave Example](https://processing.org/examples/sinewave.html)                          |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
