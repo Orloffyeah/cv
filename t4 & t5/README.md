@@ -49,6 +49,10 @@ Lo último a realizar fue un cambio al color que se le asignan a las sombras, ya
 
 Finalmente, se implementaron unos objetos con movimientos básicos, para demostrar el funcionamiento del sombreado en tiempo real, sin importar que los objetos sean cambiados o la velocidad que posean.
 
+![Scene 1](Images/1.JPG)
+![Scene 2](Images/2.JPG)
+![Scene 3](Images/3.JPG)
+
 ## Entrega
 
 Fecha límite Domingo 10/3/19 a las 24h.
